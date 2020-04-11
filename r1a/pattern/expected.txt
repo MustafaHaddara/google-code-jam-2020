@@ -1,0 +1,8 @@
+Case #1: COCONUTS
+Case #2: *
+Case #3: HELLO
+Case #4: *
+Case #5: CODEJAM
+Case #6: ABCDE
+Case #7: *
+Case #8: AQ
